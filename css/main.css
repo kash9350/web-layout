@@ -1,0 +1,17 @@
+.main-body{
+	background-image: url('../img/ll1.png');
+	background-repeat: no-repeat;
+	background-size: 100% auto;
+}
+.gradient {
+  left: 0;
+  height: 100%;
+  position: absolute;
+  top: 0;
+  width: 100%;
+  z-index: 999;
+ }
+ #maximage {
+	display:none;
+	position:fixed !important;
+}
